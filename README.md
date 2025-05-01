@@ -13,15 +13,17 @@ A Flutter app inspired by the Spotify interface.
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screen1.png)  
-![Screenshot 2](screenshots/screen2.png)
-![Screenshot 2](screenshots/screen3.png)
+## Screenshots
+
+<img src="screenshots/screen1.png" width="300" />
+<img src="screenshots/screen2.png" width="300" />
+<img src="screenshots/screen3.png" width="300" />
 
 ## Getting Started
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/spotify_clone.git
+git https://github.com/kingcortex/Spotify_clone.git
 cd spotify_clone
 ```
 
